@@ -1,0 +1,5 @@
+Outlires description 
+'LotFrontage' > 250
+'LotArea' > 100000
+'MasVnrArea' > 1400
+'GrLivArea' > 4000
