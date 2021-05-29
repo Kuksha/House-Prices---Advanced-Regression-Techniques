@@ -22,4 +22,4 @@
 
 <h3> Результаты </h3>
 
-<img src = 'img.kaggle_house.png'>
+<img src = 'img/kaggle_house.png'>
