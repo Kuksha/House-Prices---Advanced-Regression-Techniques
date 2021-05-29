@@ -18,3 +18,8 @@
      </li>
   </ol>
 </p>
+
+
+<h3> Результаты </h3>
+
+<img src = 'https://drive.google.com/file/d/16E5a_CT21_ULjxLc1_hQnwcNWKJnPQuz/view?usp=sharing'>
